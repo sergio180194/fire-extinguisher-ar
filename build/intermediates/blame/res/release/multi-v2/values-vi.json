@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arodr\\Desktop\\Proyecto Modular 2.0\\AndroidNuevaVersion\\extintores\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arodr\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\f466999623385051ec9d3a4516b942b5\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,3415",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,3494"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\arodr\\.gradle\\caches\\transforms-1\\files-1.1\\mapbox-android-sdk-6.5.0.aar\\9d11dc12709939853527c864df208401\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,347,420,498,569,657,744,872,988,1181,1305,1441,1517",
+                        "endColumns": "114,176,72,77,70,87,86,127,115,192,123,135,75,78",
+                        "endOffsets": "165,342,415,493,564,652,739,867,983,1176,1300,1436,1512,1591"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1874,1989,2166,2239,2317,2388,2476,2563,2691,2807,3000,3124,3260,3336",
+                        "endColumns": "114,176,72,77,70,87,86,127,115,192,123,135,75,78",
+                        "endOffsets": "1984,2161,2234,2312,2383,2471,2558,2686,2802,2995,3119,3255,3331,3410"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\arodr\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\053ea59a7cd9c2df02f99ae4dd1ed446\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3499",
+                        "endColumns": "100",
+                        "endOffsets": "3595"
+                    }
+                }
+            ]
+        }
+    ]
+}
